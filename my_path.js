@@ -2,7 +2,7 @@
 Python = {"courses" : {"course_1" : "Udacity. Intro to computer science.",
 		"course_2" : "Programming foundations with Python"},
 		"books" : ["Byte of python", "Mark Lutz - Python"], 
-		"sources" : ["python.org", "https://docs.python.org/3/", "pythonworld.ru", "Stepic.org"]};
+		"sources" : ["python.org", "https://docs.python.org/3/", "pythonworld.ru", "Stepic.org", "http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/"]};
 
 HTML_CSS = {"courses" : {"course_3" : "Udacity. Intro to HTML and CSS.",
 		"course_4" : "https://www.youtube.com/watch?v=5pBcKKiZSGE", 
